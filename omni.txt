@@ -1,0 +1,23 @@
+# Omni theme
+palette = 0=#000000
+palette = 1=#ff5555
+palette = 10=#5af78e
+palette = 11=#eaf08d
+palette = 12=#caa9fa
+palette = 13=#ff92d0
+palette = 14=#aa91e3
+palette = 15=#e6e6e6
+palette = 2=#50fa7b
+palette = 3=#effa78
+palette = 4=#bd93f9
+palette = 5=#ff79c6
+palette = 6=#8d79ba
+palette = 7=#bfbfbf
+palette = 8=#4d4d4d
+palette = 9=#ff6e67
+background = 191620
+cursor-color = 78d1e1
+foreground = e1e1e6
+selection-foreground = f8f8f2
+selection-background = 78d1e1
+

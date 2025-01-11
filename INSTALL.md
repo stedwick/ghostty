@@ -1,17 +1,7 @@
-### [X](https://website-link.com)
+### [Ghostty](https://ghostty.org)
 
-#### Install using Git
+#### Install using copy-paste
 
-If you are a git user, you can install the theme by cloning the repo:
+Just copy and paste this theme directly from omni.txt into your Ghostty config file.
 
-    $ git clone https://github.com/getomni/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/getomni/template/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Step 1
-2. Step 2
-3. Step 3
+Or, follow these instructions to put it in a separate file and load it from there: https://ghostty.org/docs/features/theme
